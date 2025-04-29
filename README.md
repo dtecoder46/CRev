@@ -11,7 +11,7 @@ C++ Revelation (stylized as CRev) is a C++ based language designed to simplify C
 
 ## How to Use
 1. Go to the CRev repository on GitHub
-2. Navigate to the link on the right
+2. Fork the repository
 3. Write code in main.crv
 4. Type "./script.sh" in the terminal
 5. Type "./script2.sh" in the terminal
